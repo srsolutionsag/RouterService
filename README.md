@@ -1,6 +1,6 @@
-Report Service
+Router Service
 ============
-The Report Service is an addition to ILIAS that is needed for some of the plug-ins
+The Router Service is an addition to ILIAS that is needed for some of the plug-ins
 
 Installation
 ------------
