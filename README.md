@@ -7,7 +7,7 @@ Installation
 You start in your ILIAS root directory
 ```bash
 cd Services
-git clone git@github.com:studer-raimann/RouterService.git Router
+git clone https://github.com/studer-raimann/RouterService.git Router
 ```
 After this you need to reload the ILIAS control structure.
 - Log into the ILIAS setup using the master password. (yourdomain.com/setup/setup.php)
