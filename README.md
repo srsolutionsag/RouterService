@@ -14,3 +14,12 @@ After this you need to reload the ILIAS control structure.
 - Click on "Details" of your instance
 - Goto the tab "Tools"
 - Click on "Reload" under "Control Structure
+
+###Contact
+studer + raimann ag  
+Waldeggstrasse 72  
+3097 Liebefeld  
+Switzerland  
+
+info@studer-raimann.ch  
+www.studer-raimann.ch
